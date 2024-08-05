@@ -20,7 +20,7 @@ module.exports = (() => {
             version: "1.0.0",
             description: "Sets a random background image every time Discord loads.",
             github: "https://slfjnghinadokjfhgnojjndoif.github.io/ohio/",
-            github_raw: "https://raw.githubusercontent.com/lfjnghinadokjfhgnojjndoif.github.io/ohio/main/RandomBackground.plugin.js"
+            github_raw: "https://raw.githubusercontent.com/slfjnghinadokjfhgnojjNDOIF/ohio/main/randombackground.plugin.js"
         },
         changelog: [
             {
